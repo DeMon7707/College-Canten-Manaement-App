@@ -1,1 +1,1 @@
-# College-Canten-Manaement-App
+# College-Canten-Management-App
