@@ -1,0 +1,21 @@
+<resources>
+
+    <style parent="@android:style/TextAppearance.Medium" name="CollapsedAppBar">
+
+    <item name="android:textSize">24sp</item>
+
+    <item name="android:textColor">@android:color/white</item>
+
+    <item name="android:textStyle">normal</item>
+
+</style>
+
+
+    <style parent="@android:style/TextAppearance.Material.Title" name="ExpandedAppBar">
+
+    <item name="android:textColor">@color/colorPrimary</item>
+
+    <item name="android:textStyle">normal</item>
+
+</style>
+</resources>

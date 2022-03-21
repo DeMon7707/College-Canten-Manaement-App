@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eat It Admin</string>
+    <string name="slogan">We are Always There to Feed You</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="status_array">
+        <item>Order Placed</item>
+        <item>Order On the Way</item>
+        <item>Order Completed</item>
+    </string-array>
+</resources>
